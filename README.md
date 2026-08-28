@@ -1,4 +1,4 @@
-# Hi there, I'm Ariel (Ayeng Coding) 👋
+[# Hi there, I'm Ariel (Ayeng Coding) 👋
 
 ### 🚀 About Me
 - 🔭 Currently working on Python automation, Telegram bots, Android applications, and web development.
@@ -61,3 +61,4 @@
 
 ### 📈 GitHub Stats
 ![GitHub Commits](https://img.shields.io/github/commit-activity/m/arielskie/arielskie?style=for-the-badge&logo=github&label=Commits)
+](https://www.ayengcoding.com/)
