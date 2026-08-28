@@ -14,14 +14,30 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### ☁️ Cloud Services & Databases
+### ☁️ Cloud Services, Databases & Tools
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
+### 🔌 Hardware, CAD & Simulation
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-003366?style=for-the-badge&logo=analogdevices&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim-003366?style=for-the-badge&logo=nationalinstruments&logoColor=white)
+
+### 📊 Web & Productivity Skills
+- **Web & APIs**: REST APIs, JSON format, Client-Server architecture.
+- **Office Tools**: Microsoft Office Suite (Word, Excel, PowerPoint).
+
+### 🎸 Hobbies & Interests
+- 🎸 Playing Acoustic & Electric Guitar
+- 💻 Building Web Side Projects & Coding Experiments
+- 🤖 Automation & Bot Development
+
+### 📈 GitHub Stats
 ![GitHub Commits](https://img.shields.io/github/commit-activity/m/arielskie/arielskie?style=for-the-badge&logo=github&label=Commits)
