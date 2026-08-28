@@ -1,5 +1,16 @@
 # Hi there, I'm Ariel (Ayeng Coding) 👋
 
+![Available for Hire](https://img.shields.io/badge/Status-Available_for_Hire-success?style=for-the-badge&logo=github)
+![Freelance](https://img.shields.io/badge/Freelance-Open-blue?style=for-the-badge)
+
+### 💼 Services Offered
+- **Web Development**: Custom web apps, movie portals, forums, e-commerce, and landing pages.
+- **Automation & Bots**: Telegram bots, web scraping, and Python workflow scripts.
+- **Mobile Development**: Android application design and frontend integration.
+- **Backend & Cloud**: Supabase, Firebase, MongoDB, Railway, Render, and Cloudflare deployments.
+
+---
+
 ### 🚀 About Me
 - 🌐 Visit my website: [ayengcoding.com](https://www.ayengcoding.com/)
 - 🔭 Currently working on Python automation, Telegram bots, Android applications, and web development.
