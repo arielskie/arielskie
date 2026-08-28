@@ -5,6 +5,14 @@
 - 🌱 Learning TypeScript, C++, Cloudflare Workers, and backend architectures.
 - 💬 Ask me about Python tools, Telegram bot development, and database integration.
 
+### 🌟 Project Showcase
+- 🎬 **Movie Streaming & Media Portals**: Custom movie platforms and video delivery systems.
+- 👰 **Wedding & Event Sites**: Personalized event pages and interactive wedding invites.
+- 📚 **Anime & Manga Platforms**: Content hubs for reading manga and browsing anime collections.
+- 📱 **APK & Mobile Landing Pages**: Showcase and download pages for mobile applications.
+- 🛒 **E-Commerce & Online Stores**: Custom storefronts and product catalog systems.
+- 👤 **Portfolio & Profile Sites**: Dynamic bio, portfolio, and landing pages.
+
 ### 🛠️ Languages & Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
