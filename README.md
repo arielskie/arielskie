@@ -12,4 +12,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arielskie&show_icons=true&theme=radial)
+![Ariel's GitHub Stats](https://github-readme-stats-eight-now.vercel.app/api?username=arielskie&show_icons=true&theme=radial)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arielskie&theme=radial)
