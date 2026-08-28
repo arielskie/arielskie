@@ -6,6 +6,7 @@
 - 💬 Ask me about Python tools, Telegram bot development, and database integration.
 
 ### 🌟 Project Showcase
+- 💬 **Community & Discussion Forums**: Custom online forum platforms and discussion boards.
 - 🎬 **Movie Streaming & Media Portals**: Custom movie platforms and video delivery systems.
 - 👰 **Wedding & Event Sites**: Personalized event pages and interactive wedding invites.
 - 📚 **Anime & Manga Platforms**: Content hubs for reading manga and browsing anime collections.
