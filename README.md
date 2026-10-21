@@ -168,24 +168,27 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Activity & Contribution Graph
 
+<!-- Interactive full-width activity graph -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayengcoding&theme=tokyo-night&hide_border=true&border_radius=8&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=ayengcoding&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" height="195" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayengcoding&langs_count=6&theme=tokyonight&hide_border=true&border_radius=8" height="195" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Clean compact stats: 3 balanced lines with no 0-value clutter -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayengcoding&show_icons=true&hide=stars,issues&theme=tokyonight&hide_border=true&border_radius=8&rank_icon=github" width="49%" alt="GitHub Stats" />
+  <!-- Compact language bar chart: perfectly matches the stats card height -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayengcoding&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="Top Languages" />
+</div>
 
 ---
 
