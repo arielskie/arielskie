@@ -18,19 +18,26 @@
 
 </div>
 
-## 📌 About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Ariel (Ayeng Coding)
-role: Full-Stack Developer & CMS Architect
-location: Philippines
-core_skills:
-  - Custom Blogger XML & Widget Engineering
-  - WordPress Theme & Plugin Customization
-  - Telegram Bot & Automation API Development
-  - Full-Stack Web Development & Cloud Deployment
-focus: Building ultra-fast, responsive, and SEO-optimized web experiences
-```
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>👋 Hey! I'm <b>Ariel</b>, also known as <b>Ayeng Coding</b>. I'm a passionate developer based in the <b>Philippines</b> 🇵🇭 dedicated to engineering clean, responsive, and performance-driven digital products.</p>
+      <ul>
+        <li>🛠️ <b>CMS Specialist:</b> Mastering custom <b>Blogger XML</b> templates and <b>WordPress</b> architecture from the ground up.</li>
+        <li>🤖 <b>Bot & API Automation:</b> Building smart <b>Telegram bots</b> and integrating third-party <b>REST APIs</b>.</li>
+        <li>⚡ <b>Modern Full-Stack:</b> Building reactive UIs with <b>React & Tailwind</b>, backed by <b>Node.js, PHP, Firebase, & Supabase</b>.</li>
+        <li>☁️ <b>Cloud Deployment:</b> 24/7 serverless & cloud setups on <b>Vercel, Cloudflare, Railway, & Render</b>.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <a href="https://github.com/arielskie">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielskie&repo=All-THEME-FILES-backup&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Featured Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
