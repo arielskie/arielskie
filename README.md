@@ -168,26 +168,25 @@
 
 ---
 
-## 📈 Activity & Contribution Graph
+## 📊 GitHub Analytics
 
-<!-- Interactive full-width activity graph -->
+<!-- 1. The Strongest Stat: 2,300+ Contribution Streak Hero Card -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayengcoding&theme=tokyo-night&hide_border=true&border_radius=8&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="GitHub Streak" />
 </div>
 
 <br>
 
+<!-- 2. Clean Full-Width Most Used Languages Card -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayengcoding&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="Top Languages" />
 </div>
 
 <br>
 
+<!-- 3. Clean Full-Width GitHub Overall Performance Stats -->
 <div align="center">
-  <!-- Clean compact stats: 3 balanced lines with no 0-value clutter -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayengcoding&show_icons=true&hide=stars,issues&theme=tokyonight&hide_border=true&border_radius=8&rank_icon=github" width="49%" alt="GitHub Stats" />
-  <!-- Compact language bar chart: perfectly matches the stats card height -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayengcoding&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayengcoding&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="GitHub Stats" />
 </div>
 
 ---
