@@ -2,10 +2,10 @@
 
 # ⚡ Hi there, I'm Ariel! (Ayeng Coding) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer;Custom+Blogger+%26+WordPress+Expert;Telegram+Bots+%26+API+Integrations;Cloud+Deployments+%26+Web+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer;Custom+Blogger+%26+WordPress+Expert;Telegram+Bots+%26+API+Integrations;PostgreSQL+%26+Database+Architect;Cloud+Deployments+%26+Web+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>Full-Stack & CMS Developer crafting custom Blogger & WordPress themes, high-speed modern web applications, Telegram bots, and automated cloud workflows.</b>
+  <b>Full-Stack & CMS Developer crafting custom Blogger & WordPress themes, high-speed modern web applications, relational databases, Telegram bots, and automated cloud workflows.</b>
 </p>
 
 <p align="center">
@@ -23,8 +23,9 @@
 > 👋 Hey! I'm **Ariel**, also known as **Ayeng Coding**. I'm a passionate developer based in the **Philippines** 🇵🇭 dedicated to engineering clean, responsive, and performance-driven digital products.
 
 - 🛠️ **CMS Specialist:** Mastering custom **Blogger XML** templates and **WordPress** architecture from the ground up.
+- 🗄️ **Databases & Architecture:** Designing efficient schemas with **PostgreSQL, MySQL, SQLite, Supabase & Firebase**.
 - 🤖 **Bot & API Automation:** Building smart **Telegram bots** and integrating third-party **REST APIs**.
-- ⚡ **Modern Full-Stack:** Building reactive UIs with **React & Tailwind CSS**, backed by **Node.js, PHP, Firebase, & Supabase**.
+- ⚡ **Modern Full-Stack:** Building reactive UIs with **React & Tailwind CSS**, backed by **Node.js, PHP, & Python**.
 - ☁️ **Cloud Deployment:** 24/7 serverless & cloud setups on **Vercel, Cloudflare, Railway, & Render**.
 
 ---
@@ -54,13 +55,23 @@
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>⚙️ Backend & Database</b></td>
+    <td width="25%" valign="top"><b>🗄️ Databases & Storage</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>⚙️ Backend & APIs</b></td>
     <td width="75%">
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/-REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -95,14 +106,14 @@
       <ul>
         <li><b>Blogger & WordPress:</b> Custom XML templates, responsive designs, schema markup, SEO tuning, speed optimization.</li>
         <li><b>Modern Frontends:</b> Reactive single-page applications using React, Tailwind CSS, TypeScript, and modern JS (ES6+).</li>
-        <li><b>Full-Stack Web Apps:</b> Backends with Node.js, Express, PHP, and Python backed by Supabase & Firebase.</li>
+        <li><b>Relational & Cloud DBs:</b> Scalable database schema design and querying using PostgreSQL, MySQL, and Supabase.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Automation & Telegram Bots</h3>
       <ul>
         <li><b>Telegram Bot Creation:</b> Automated alerts, interactive menus, customer support bots, channel/group management.</li>
-        <li><b>REST API Integrations:</b> Webhooks, third-party service connections, custom endpoint development.</li>
+        <li><b>REST & Webhook APIs:</b> Connecting frontends, databases, and third-party tools into automated workflows.</li>
         <li><b>Cloud Deployments:</b> Seamless 24/7 hosting on Cloudflare Workers, Vercel, Railway, and Render.</li>
       </ul>
     </td>
