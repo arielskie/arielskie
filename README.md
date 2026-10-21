@@ -3,7 +3,6 @@
 <img src="https://i.imgur.com/e9tN2Ri.png" alt="Ayeng Coding Banner - Ariel O. Mentawan" width="100%" />
 
 <br><br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer;Custom+Blogger+%26+WordPress+Expert;Telegram+Bots+%26+API+Integrations;PostgreSQL+%26+Database+Architect;Cloud+Deployments+%26+Web+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
