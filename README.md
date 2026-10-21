@@ -31,28 +31,58 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 🌐 Frontend & UI Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" alt="Frontend Stack" />
-</p>
-
-### ⚙️ Backend, CMS & Bot Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,wordpress,firebase,supabase,postman" alt="Backend Stack" />
-  <a href="https://core.telegram.org/bots/api">
-    <img src="https://img.shields.io/badge/Telegram_Bot_API-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" height="48" alt="Telegram Bot API" />
-  </a>
-  <a href="https://www.blogger.com">
-    <img src="https://img.shields.io/badge/Blogger_Custom_Themes-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="48" alt="Blogger XML Themes" />
-  </a>
-</p>
-
-### ☁️ Cloud, Deployment & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github" alt="Cloud & DevOps Stack" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48" alt="Railway" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" alt="Render" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top"><b>🌐 Frontend & UI</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>📝 CMS & Custom Themes</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/-Blogger_XML-FF5722?style=flat-square&logo=blogger&logoColor=white" />
+      <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>⚙️ Backend & Database</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/-REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🤖 Bots & Automations</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/-Telegram_Bot_API-24A1DE?style=flat-square&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Webhooks-4A154B?style=flat-square&logo=slack&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Automation-FF6C37?style=flat-square&logo=zapier&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>☁️ Cloud & Deployments</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
