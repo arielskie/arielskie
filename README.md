@@ -3,6 +3,7 @@
 <img src="https://i.imgur.com/e9tN2Ri.png" alt="Ayeng Coding Banner - Ariel O. Mentawan" width="100%" />
 
 <br><br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer;Custom+Blogger+%26+WordPress+Expert;Telegram+Bots+%26+API+Integrations;PostgreSQL+%26+Database+Architect;Cloud+Deployments+%26+Web+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
@@ -17,10 +18,10 @@
   <a href="https://www.facebook.com/acohcayeng" target="_blank">
     <img src="https://img.shields.io/badge/Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
   </a>
-  <a href="https://github.com/arielskie">
-    <img src="https://img.shields.io/github/followers/arielskie?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers">
+  <a href="https://github.com/ayengcoding">
+    <img src="https://img.shields.io/github/followers/ayengcoding?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=arielskie&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayengcoding&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -158,19 +159,19 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielskie&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielskie&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielskie&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="47%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayengcoding&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayengcoding&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="47%" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
   <p>💡 <i>Open for freelance projects, custom theme development, and bot automation collaborations!</i></p>
-  <sub>Designed with ❤️ by <a href="https://github.com/arielskie">Ayeng Coding (arielskie)</a></sub>
+  <sub>Designed with ❤️ by <a href="https://github.com/ayengcoding">Ayeng Coding</a></sub>
 </div>
