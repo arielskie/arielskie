@@ -26,8 +26,8 @@
 
 <br>
 
-<!-- Streak Stats Card Placed Directly Below Buttons with Clean White Background -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=default&border_radius=8" width="100%" alt="GitHub Streak" />
+<!-- Streak Stats Card - Scaled to 75% for cleaner font & numbers -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=default&border_radius=8" width="75%" alt="GitHub Streak" />
 
 ---
 
@@ -175,23 +175,15 @@
 
 ## 📊 Analytics & Performance
 
-<!-- 1. Most Productive Hours - Full Width 100% -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayengcoding&theme=default&utcOffset=8" width="100%" alt="Productive Coding Time Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayengcoding&theme=default&utcOffset=8" width="49%" alt="Productive Coding Time Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayengcoding&theme=default" width="49%" alt="Language Commit Graph" />
 </div>
 
 <br>
 
-<!-- 2. Commit Distribution by Language - Full Width 100% -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayengcoding&theme=default" width="100%" alt="Language Commit Graph" />
-</div>
-
-<br>
-
-<!-- 3. Overall Profile Performance Card - Full Width 100% -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayengcoding&theme=default" width="100%" alt="Overall Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayengcoding&theme=default" width="98.5%" alt="Overall Profile Summary Card" />
 </div>
 
 ---
