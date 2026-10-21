@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⚡ Hi there, I'm Ariel! (Ayeng Coding) 👋
+<img src="https://i.imgur.com/e9tN2Ri.png" alt="Ayeng Coding Banner - Ariel O. Mentawan" width="100%" />
+
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer;Custom+Blogger+%26+WordPress+Expert;Telegram+Bots+%26+API+Integrations;PostgreSQL+%26+Database+Architect;Cloud+Deployments+%26+Web+Solutions)](https://git.io/typing-svg)
 
@@ -8,9 +10,17 @@
   <b>Full-Stack & CMS Developer crafting custom Blogger & WordPress themes, high-speed modern web applications, relational databases, Telegram bots, and automated cloud workflows.</b>
 </p>
 
+<!-- Social & Community Connect Buttons -->
 <p align="center">
-  <a href="https://github.com/arielskie"><img src="https://img.shields.io/github/followers/arielskie?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers"></a>
-  <a href="https://github.com/arielskie"><img src="https://img.shields.io/github/stars/arielskie?style=for-the-badge&color=f59e0b&logo=apachespark" alt="Stars"></a>
+  <a href="https://t.me/ayengcodingofficial" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Community-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Official Group" />
+  </a>
+  <a href="https://www.facebook.com/acohcayeng" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
+  </a>
+  <a href="https://github.com/arielskie">
+    <img src="https://img.shields.io/github/followers/arielskie?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=arielskie&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -20,13 +30,37 @@
 
 ## 👨‍💻 About Me
 
-> 👋 Hey! I'm **Ariel**, also known as **Ayeng Coding**. I'm a passionate developer based in the **Philippines** 🇵🇭 dedicated to engineering clean, responsive, and performance-driven digital products.
+> 👋 Hey! I'm **Ariel O. Mentawan**, also known as **Ayeng Coding**. I'm a passionate web developer based in the **Philippines** 🇵🇭 dedicated to engineering clean, responsive, and performance-driven digital products.
 
 - 🛠️ **CMS Specialist:** Mastering custom **Blogger XML** templates and **WordPress** architecture from the ground up.
 - 🗄️ **Databases & Architecture:** Designing efficient schemas with **PostgreSQL, MySQL, SQLite, Supabase & Firebase**.
 - 🤖 **Bot & API Automation:** Building smart **Telegram bots** and integrating third-party **REST APIs**.
 - ⚡ **Modern Full-Stack:** Building reactive UIs with **React & Tailwind CSS**, backed by **Node.js, PHP, & Python**.
 - ☁️ **Cloud Deployment:** 24/7 serverless & cloud setups on **Vercel, Cloudflare, Railway, & Render**.
+- 🌐 **Websites:** Visit [ayengcoding.com](https://www.ayengcoding.com) for my blog/portfolio & [ayengcoding.ct.ws](https://ayengcoding.ct.ws) for theme store.
+
+---
+
+## 🌐 Connect & Community
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://t.me/ayengcodingofficial" target="_blank">
+        <img src="https://img.shields.io/badge/Join_Telegram_Channel-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Community" /><br><br>
+        <b>📢 Ayeng Coding Official Telegram</b><br>
+        <sub>Updates, Bot creation, Web Templates & Direct Discussions</sub>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.facebook.com/acohcayeng" target="_blank">
+        <img src="https://img.shields.io/badge/Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" /><br><br>
+        <b>👤 Ariel Mentawan on Facebook</b><br>
+        <sub>Inquiries, Collaborations & Networking</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
