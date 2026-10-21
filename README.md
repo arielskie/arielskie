@@ -30,3 +30,78 @@ core_skills:
   - Telegram Bot & Automation API Development
   - Full-Stack Web Development & Cloud Deployment
 focus: Building ultra-fast, responsive, and SEO-optimized web experiences
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🌐 Frontend & UI Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" alt="Frontend Stack" />
+</p>
+
+### ⚙️ Backend, CMS & Bot Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,wordpress,firebase,supabase,postman" alt="Backend Stack" />
+  <a href="https://core.telegram.org/bots/api">
+    <img src="https://img.shields.io/badge/Telegram_Bot_API-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" height="48" alt="Telegram Bot API" />
+  </a>
+  <a href="https://www.blogger.com">
+    <img src="https://img.shields.io/badge/Blogger_Custom_Themes-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="48" alt="Blogger XML Themes" />
+  </a>
+</p>
+
+### ☁️ Cloud, Deployment & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github" alt="Cloud & DevOps Stack" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48" alt="Railway" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" alt="Render" />
+</p>
+
+---
+
+## 🤖 What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Custom CMS & Web Development</h3>
+      <ul>
+        <li><b>Blogger & WordPress:</b> Custom XML templates, responsive designs, schema markup, SEO tuning, speed optimization.</li>
+        <li><b>Modern Frontends:</b> Reactive single-page applications using React, Tailwind CSS, TypeScript, and modern JS (ES6+).</li>
+        <li><b>Full-Stack Web Apps:</b> Backends with Node.js, Express, PHP, and Python backed by Supabase & Firebase.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Automation & Telegram Bots</h3>
+      <ul>
+        <li><b>Telegram Bot Creation:</b> Automated alerts, interactive menus, customer support bots, channel/group management.</li>
+        <li><b>REST API Integrations:</b> Webhooks, third-party service connections, custom endpoint development.</li>
+        <li><b>Cloud Deployments:</b> Seamless 24/7 hosting on Cloudflare Workers, Vercel, Railway, and Render.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arielskie&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arielskie&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielskie&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="47%" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <p>💡 <i>Open for freelance projects, custom theme development, and bot automation collaborations!</i></p>
+  <sub>Designed with ❤️ by <a href="https://github.com/arielskie">Ayeng Coding (arielskie)</a></sub>
+</div>
