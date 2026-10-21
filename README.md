@@ -4,6 +4,11 @@
 
 <br><br>
 
+<!-- Hero Streak Card Placed Prominently Above -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=radical&border_radius=8" width="100%" alt="GitHub Streak" />
+
+<br><br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer;Custom+Blogger+%26+WordPress+Expert;Telegram+Bots+%26+API+Integrations;PostgreSQL+%26+Database+Architect;Cloud+Deployments+%26+Web+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
@@ -170,14 +175,6 @@
 
 ## 📊 Analytics & Performance
 
-<!-- 1. Contribution Streak with Radical Gradient -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=radical&border_radius=8" width="100%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<!-- 2. Dual Coding Charts with Matching Gradient Backgrounds -->
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -193,7 +190,6 @@
 
 <br>
 
-<!-- 3. Overall Profile Performance Card with Gradient Theme -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayengcoding&theme=radical" width="100%" alt="Overall Profile Summary Card" />
 </div>
