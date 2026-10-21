@@ -44,22 +44,34 @@
 ## 🌐 Connect & Community
 
 <table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://t.me/ayengcodingofficial" target="_blank">
-        <img src="https://img.shields.io/badge/Join_Telegram_Channel-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Community" /><br><br>
-        <b>📢 Ayeng Coding Official Telegram</b><br>
-        <sub>Updates, Bot creation, Web Templates & Direct Discussions</sub>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://www.facebook.com/acohcayeng" target="_blank">
-        <img src="https://img.shields.io/badge/Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" /><br><br>
-        <b>👤 Ariel Mentawan on Facebook</b><br>
-        <sub>Inquiries, Collaborations & Networking</sub>
-      </a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="50%" align="center">📢 Official Telegram Community</th>
+      <th width="50%" align="center">👤 Facebook Profile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <a href="https://t.me/ayengcodingofficial" target="_blank">
+          <img src="https://img.shields.io/badge/Join_Channel-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Community" />
+        </a>
+        <br><br>
+        <b>@ayengcodingofficial</b>
+        <p>Updates, bot creation, custom web templates & direct discussions.</p>
+      </td>
+      <td align="center" valign="top">
+        <br>
+        <a href="https://www.facebook.com/acohcayeng" target="_blank">
+          <img src="https://img.shields.io/badge/Connect_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
+        </a>
+        <br><br>
+        <b>Ariel Mentawan</b>
+        <p>Inquiries, client collaborations & professional networking.</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -164,10 +176,16 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayengcoding&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayengcoding&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="47%" alt="Top Languages" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=ayengcoding&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" height="195" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayengcoding&langs_count=6&theme=tokyonight&hide_border=true&border_radius=8" height="195" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
