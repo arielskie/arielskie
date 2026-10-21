@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer;Custom+Blogger+%26+WordPress+Expert;Telegram+Bots+%26+API+Integrations;PostgreSQL+%26+Database+Architect;Cloud+Deployments+%26+Web+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer;Custom+Blogger+%26+WordPress+Expert;Telegram+Bots+%26+API+Integrations;PostgreSQL+%26+Database+Architect;Cloud+Deployments+%26+Web+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
   <b>Full-Stack & CMS Developer crafting custom Blogger & WordPress themes, high-speed modern web applications, relational databases, Telegram bots, and automated cloud workflows.</b>
@@ -21,7 +21,7 @@
   <a href="https://github.com/ayengcoding">
     <img src="https://img.shields.io/github/followers/ayengcoding?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ayengcoding&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayengcoding&label=Profile%20Views&color=0969da&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -168,34 +168,34 @@
 
 ---
 
-## 📊 Analytics & Coding Graphs
+## 📊 Analytics & Performance
 
-<!-- 1. The Strongest Stat: 2,300+ Contribution Streak Hero Card -->
+<!-- 1. Contribution Streak (Clean Light Mode with GitHub Border) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=default&border_radius=8" width="100%" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<!-- 2. Dual Coding Charts & Graphs (Live & Fully Working) -->
+<!-- 2. Dual Clean Light Mode Coding Charts (Native GitHub Theme) -->
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>⏰ Most Productive Coding Hours (GMT+8)</b><br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayengcoding&theme=tokyonight&utcOffset=8" width="100%" alt="Productive Coding Time Chart" />
+      <b>⏰ Most Productive Hours (GMT+8)</b><br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayengcoding&theme=default&utcOffset=8" width="100%" alt="Productive Coding Time Chart" />
     </td>
     <td width="50%" align="center">
       <b>📊 Commit Distribution by Language</b><br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayengcoding&theme=tokyonight" width="100%" alt="Language Commit Graph" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayengcoding&theme=default" width="100%" alt="Language Commit Graph" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- 3. Overall Profile Performance Card -->
+<!-- 3. Overall Profile Performance Card (Clean Light Mode) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayengcoding&theme=tokyonight" width="100%" alt="Overall Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayengcoding&theme=default" width="100%" alt="Overall Profile Summary Card" />
 </div>
 
 ---
