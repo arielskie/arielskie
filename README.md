@@ -175,23 +175,21 @@
 
 ## 📊 Analytics & Performance
 
-<!-- Dual Clean Light Mode Coding Charts (Native GitHub White Theme) -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <b>⏰ Most Productive Hours (GMT+8)</b><br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayengcoding&theme=default&utcOffset=8" width="100%" alt="Productive Coding Time Chart" />
-    </td>
-    <td width="50%" align="center">
-      <b>📊 Commit Distribution by Language</b><br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayengcoding&theme=default" width="100%" alt="Language Commit Graph" />
-    </td>
-  </tr>
-</table>
+<!-- 1. Most Productive Hours - Full Width 100% -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayengcoding&theme=default&utcOffset=8" width="100%" alt="Productive Coding Time Chart" />
+</div>
 
 <br>
 
-<!-- Overall Profile Performance Card (Clean White Mode) -->
+<!-- 2. Commit Distribution by Language - Full Width 100% -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayengcoding&theme=default" width="100%" alt="Language Commit Graph" />
+</div>
+
+<br>
+
+<!-- 3. Overall Profile Performance Card - Full Width 100% -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayengcoding&theme=default" width="100%" alt="Overall Profile Summary Card" />
 </div>
