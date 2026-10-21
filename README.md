@@ -168,25 +168,34 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics & Coding Graphs
 
 <!-- 1. The Strongest Stat: 2,300+ Contribution Streak Hero Card -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayengcoding&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<!-- 2. Clean Full-Width Most Used Languages Card -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayengcoding&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="Top Languages" />
-</div>
+<!-- 2. Dual Coding Charts & Graphs (Live & Fully Working) -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>⏰ Most Productive Coding Hours (GMT+8)</b><br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayengcoding&theme=tokyonight&utcOffset=8" width="100%" alt="Productive Coding Time Chart" />
+    </td>
+    <td width="50%" align="center">
+      <b>📊 Commit Distribution by Language</b><br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayengcoding&theme=tokyonight" width="100%" alt="Language Commit Graph" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- 3. Clean Full-Width GitHub Overall Performance Stats -->
+<!-- 3. Overall Profile Performance Card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayengcoding&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayengcoding&theme=tokyonight" width="100%" alt="Overall Profile Summary Card" />
 </div>
 
 ---
